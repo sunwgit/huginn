@@ -1,4 +1,4 @@
-![Huginn](https://raw.github.com/huginn/huginn/master/media/huginn-logo.png "Your agents are standing by.")
+![Huginn](https://raw.github.com/sunwgit/huginn/master/media/huginn-logo.png "Your agents are standing by.")
 
 -----
 
