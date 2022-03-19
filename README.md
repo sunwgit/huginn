@@ -1,4 +1,4 @@
-![Huginn](https://raw.github.com/sunwgit/huginn/master/media/huginn-logo.png "Your agents are standing by.")
+[![Huginn](https://raw.github.com/sunwgit/huginn/master/media/huginn-logo.png)](https://heroku.com/deploy?template=https://github.com/sunwgit/huginn.git)
 
 -----
 
